@@ -1,3 +1,7 @@
+# Please Note
+The UnityCsReference repository is not currently being updated beyond version 6.2.0b4. Updates are planned to resume at a later date once internal validation processes are complete.
+
+
 ## Unity 6000.2.0b4 C# reference source code
 
 The C# part of the Unity engine and editor source code.
